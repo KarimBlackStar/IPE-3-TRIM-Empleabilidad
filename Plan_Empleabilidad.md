@@ -1,9 +1,5 @@
 # 🚀 Plan de Empleabilidad Profesional
 
-> Documento transformado a Markdown con formato visual y estructura optimizada.
-
----
-
 ## 👋 Bienvenida
 
 Bienvenido a tu **Asistente de Empleabilidad Profesional**.  
